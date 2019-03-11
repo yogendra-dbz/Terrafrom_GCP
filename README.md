@@ -8,7 +8,7 @@ This following code will create the network in two different project, and then c
 * Install Terraform  - <https://www.terraform.io/intro/getting-started/install.html>
 
 
-## Prerequisites - Before executing terraform, packer templates
+## Prerequisites - Before executing terraform templates
 * Create service user in google cloud IAM.
 * Add the service user in both projects and grant the editor permission.
 * Download the credential file and save in project directory with "account.json"
